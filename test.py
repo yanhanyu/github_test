@@ -4,5 +4,6 @@
 # @Author  : Yubin.yang
 # @File    : test.py
 
-
-print('123')
+def cs(cl):
+    print(cl)
+cs = cs ("hello world")
